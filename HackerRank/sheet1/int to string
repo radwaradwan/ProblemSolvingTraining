@@ -1,0 +1,3 @@
+  // to convert from int to string String.valueof(int)
+    // to convert from string to int Integer.parseInt(string)
+    String s=String.valueOf(n);
